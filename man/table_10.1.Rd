@@ -15,11 +15,11 @@
   \item{count}{}
   }
 }
-\source{\url{http://www.stat.ufl.edu/~aa/cda/data.html}}
+\source{\url{https://users.stat.ufl.edu/~aa/cda/data.html}}
 \references{
   Agresti, A. (2013)
   \emph{Categorical Data Analysis}, Third Edition.
-  Hoboken, NJ: John Wiley \& Sons.
+  Hoboken, NJ: John Wiley & Sons.
   ISBN: 978-0-470-46363-5.
 }
 \keyword{datasets}
